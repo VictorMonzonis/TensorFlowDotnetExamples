@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TensorFlowRunner", "TensorFlowRunner\TensorFlowRunner.csproj", "{283ECC4D-24B8-411E-AC5F-989C26E3732B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TensorFlowNetMaker", "TensorFlowNetMaker\TensorFlowNetMaker.csproj", "{A3C3EC27-6887-4D48-95A2-B60709D57CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerasNetMaker", "KerasNetMaker\KerasNetMaker.csproj", "{CEB875AB-FB94-45D0-9C1D-E162EB446BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerasRunner", "KerasRunner\KerasRunner.csproj", "{89CDCF26-219E-428C-9935-6D346B5C6E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283ECC4D-24B8-411E-AC5F-989C26E3732B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283ECC4D-24B8-411E-AC5F-989C26E3732B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283ECC4D-24B8-411E-AC5F-989C26E3732B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283ECC4D-24B8-411E-AC5F-989C26E3732B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C3EC27-6887-4D48-95A2-B60709D57CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C3EC27-6887-4D48-95A2-B60709D57CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C3EC27-6887-4D48-95A2-B60709D57CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C3EC27-6887-4D48-95A2-B60709D57CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB875AB-FB94-45D0-9C1D-E162EB446BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB875AB-FB94-45D0-9C1D-E162EB446BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB875AB-FB94-45D0-9C1D-E162EB446BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB875AB-FB94-45D0-9C1D-E162EB446BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CDCF26-219E-428C-9935-6D346B5C6E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CDCF26-219E-428C-9935-6D346B5C6E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CDCF26-219E-428C-9935-6D346B5C6E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CDCF26-219E-428C-9935-6D346B5C6E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FB90FA8-9A84-4142-933C-04DAA3073902}
+	EndGlobalSection
+EndGlobal
