@@ -4,4 +4,4 @@
 
 3-Run the Runner to load the library and apply it to some inputs.
 
-Note to keras it may be need to insta py and Keras on Python
+Note to keras it may be need to install py and Keras on Python
